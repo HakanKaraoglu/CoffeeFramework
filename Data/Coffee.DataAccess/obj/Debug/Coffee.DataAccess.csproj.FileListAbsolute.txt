@@ -1,0 +1,4 @@
+C:\Projects\CoffeeFramework\Data\Coffee.DataAccess\bin\Debug\Coffee.DataAccess.dll
+C:\Projects\CoffeeFramework\Data\Coffee.DataAccess\bin\Debug\Coffee.DataAccess.pdb
+C:\Projects\CoffeeFramework\Data\Coffee.DataAccess\obj\Debug\Coffee.DataAccess.dll
+C:\Projects\CoffeeFramework\Data\Coffee.DataAccess\obj\Debug\Coffee.DataAccess.pdb

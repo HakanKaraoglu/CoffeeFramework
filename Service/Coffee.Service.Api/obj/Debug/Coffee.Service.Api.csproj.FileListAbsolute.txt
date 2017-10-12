@@ -1,0 +1,14 @@
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Coffee.Service.Api.exe.config
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Coffee.Service.Api.exe
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Coffee.Service.Api.pdb
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\System.Configuration.Abstractions.dll
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\System.Configuration.Abstractions.pdb
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\obj\Debug\Coffee.Service.Api.exe
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\obj\Debug\Coffee.Service.Api.pdb
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Topshelf.dll
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Topshelf.xml
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Nancy.dll
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Nancy.Hosting.Self.dll
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Nancy.xml
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\bin\Debug\Nancy.Hosting.Self.xml
+C:\Projects\CoffeeFramework\Service\Coffee.Service.Api\obj\Debug\Coffee.Service.Api.csprojResolveAssemblyReference.cache
